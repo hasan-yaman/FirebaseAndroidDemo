@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "484559328731",
+    "firebase_url": "https://hasandemo-e97c9.firebaseio.com",
+    "project_id": "hasandemo-e97c9",
+    "storage_bucket": "hasandemo-e97c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484559328731:android:51eed6862eb7e1ca",
+        "android_client_info": {
+          "package_name": "yaman.hasan.hasandemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484559328731-2gspe13v95iut13r6cqfp68bhoh8ph1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yaman.hasan.hasandemo",
+            "certificate_hash": "c60b0b6eb360ba5ec33c923d1d648a53ecaf883f"
+          }
+        },
+        {
+          "client_id": "484559328731-rs6c0npg1pttu19upnpgpslq2q3r8tdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqImiQS28tJtpx7g7psr-bNMRYOQ6M82E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484559328731-rs6c0npg1pttu19upnpgpslq2q3r8tdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
